@@ -1,0 +1,71 @@
+nav{
+    background-color: white;
+    
+    height: 50px; 
+      
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.zero{
+    display: inline-flex;
+}
+.first{
+    font-size: x-large;
+    color: black;
+    padding: 10px;
+    margin-left: 150px;
+    
+}
+
+.second{
+    padding: 10px;
+    margin-left: 450px;
+     
+}
+
+.third{
+    padding: 10px;
+    margin-left: 50px;
+     
+}
+
+
+.fourth{
+    padding: 10px;
+    margin-left: 50px;
+     
+}
+.fifth{
+    padding: 10px;
+    margin-left: 50px;
+     float: inline-end;
+}
+
+
+section{
+    height: 100vh;
+        background-color: pink;
+}
+#img{
+    
+    padding: 10px;
+    float: inline-start;
+}
+#text{
+    padding: 90px;
+}
+h1{
+     font-size: 10dvh; 
+}
+button{
+    color: white;
+    background-color: red;
+}
+#Home{
+    height: 100vh;
+    background-color: pink;
+
+}
+
